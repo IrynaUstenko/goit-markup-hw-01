@@ -1,2 +1,4 @@
 # goit-hm-01
-First homework 
+
+First homework
+some text
